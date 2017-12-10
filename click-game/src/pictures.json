@@ -1,0 +1,49 @@
+[
+	{
+		"id": 1,
+		"image": "http://www.maxadgroup.com/images/urunler/HotelConcept/15CarpetFloor/crpte.jpg",
+		"selected": false
+	},
+	{
+		"id": 2,
+		"image": "http://dubaifurniture.co/wp-content/uploads/2014/05/d4883.jpg",
+		"selected": false
+	},
+	{
+		"id": 3,
+		"image": "http://www.baniyasfurniture.ae/images2/hotelcarpets/mainpic.jpg",
+		"selected": false
+	},
+	{
+		"id": 4,
+		"image": "http://www.letmetellyouaboutahotel.com/wp-content/uploads/2015/08/IMG_7106.jpg",
+		"selected": false
+	},
+	{
+		"id": 5,
+		"image": "http://www.springcleancarpets.com/wp-content/uploads/2016/01/hotel.jpg",
+		"selected": false
+	},
+	{
+		"id": 6,
+		"image": "https://images.oyster.com/photos/casino-planet-hollywood-hotel-casino-sheraton-resort-v144374-720.jpg",
+		"selected": false
+	},
+	{
+		"id": 7,
+		"image": "https://i.pinimg.com/736x/b3/dc/4b/b3dc4b9817b5e102c9abdfcb5ae0bdcd--commercial-carpet-carpet-design.jpg",
+		"selected": false
+	},
+	{
+		"id": 8,
+		"image": "http://cdn-image.travelandleisure.com/sites/default/files/styles/1600x1000/public/1511904338/hotel-carpet-CARPETINSTA1117.jpg?itok=lMBr47Yc",
+		"selected": false
+	},
+	{
+		"id": 9,
+		"image": "http://dubaifurniture.co/wp-content/uploads/2014/05/homeImage31.jpg",
+		"selected": false
+	}
+								
+
+]
